@@ -7,6 +7,7 @@ A few projects I'm playing around with
   * [golang](https://github.com/cskinfill/gohacking)
   * [Python](https://github.com/cskinfill/pythonhacking)
   * [Rust](https://github.com/cskinfill/rusthacking)
+* [ethbalance](https://github.com/cskinfill/ethbalance) Small project to pull etherium address balance, implemented in python and rust
 
 ## Education
 * BS Physics - BYU
